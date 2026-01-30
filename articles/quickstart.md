@@ -169,7 +169,9 @@ results <- gsea_from_deseq(dds,
                           custom_pathways = "my_pathways.csv")
 ```
 
-See `vignette("custom-pathways")` for details.
+See
+[`vignette("custom-pathways")`](https://ghsamuel.github.io/easyGSEA/articles/custom-pathways.md)
+for details.
 
 ## Important Notes
 
@@ -206,7 +208,9 @@ If you get \>1000 pathways, consider using more stringent threshold
   [`?gsea_from_deseq`](https://ghsamuel.github.io/easyGSEA/reference/gsea_from_deseq.md)
   for full parameter details
 - See `vignette("model-organisms")` for organism-specific guidance
-- See `vignette("custom-pathways")` for non-model organisms
+- See
+  [`vignette("custom-pathways")`](https://ghsamuel.github.io/easyGSEA/articles/custom-pathways.md)
+  for non-model organisms
 - See `vignette("comparison")` for detailed comparison examples
 
 ## Citation
