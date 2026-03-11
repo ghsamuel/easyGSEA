@@ -1,6 +1,9 @@
 # easyGSEA
 
-Simplified Gene Set Enrichment Analysis from DESeq2 results.
+![R-CMD-check](https://github.com/ghsamuel/easyGSEA/workflows/R-CMD-check/badge.svg)![License:
+MIT](https://img.shields.io/badge/License-MIT-yellow.svg)![lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)
+
+> Simplified Gene Set Enrichment Analysis from DESeq2 results
 
 ## Why easyGSEA?
 
